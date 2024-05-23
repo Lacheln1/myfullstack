@@ -1,9 +1,9 @@
-
-
 function App() {
-  return (
-    <div>hello</div>  
-  );
+  return <div >
+  address~~ =
+  [{process.env.REACT_APP_SERVER}]
+  </div>
+  
 }
 
 export default App;
